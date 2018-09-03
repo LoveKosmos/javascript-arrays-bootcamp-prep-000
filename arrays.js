@@ -9,3 +9,6 @@ function addElementToBeginningOfArray(array, element){
 function addElementToEndOfArray(array, element){
   return [ ...array, element];
 }
+function desctuctivelyAddElementToEndOfArray(array,element){
+  return array.push()
+}
